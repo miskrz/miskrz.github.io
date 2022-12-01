@@ -1,4 +1,4 @@
-LINK DO STRONY: https://miskrz.github.io/ <br />
+LINK DO STRONY: <a href="https://miskrz.github.io/"> LINK DO MOJEJ STRONY </a> <br />
 
 Imie: Michał <br />
 Nazwisko: Krzempek <br />
