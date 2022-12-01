@@ -1,10 +1,9 @@
-<a href="https://miskrz.github.io/"> LINK DO MOJEJ STRONY </a> <br />
 
-Imie: Michał <br />
-Nazwisko: Krzempek <br />
-Mail: krzempekm@student.agh.edu.pl <br />
+<h2> Imie: Michał <br /> </h2>
+<h2> Nazwisko: Krzempek <br /> </h2>
+<h2> Mail: krzempekm@student.agh.edu.pl <br /> </h2>
 
-O mnie:
+<h2> O mnie: </h2>
 
     Student AGH.
 
