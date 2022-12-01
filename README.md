@@ -6,8 +6,10 @@ Mail: krzempekm@student.agh.edu.pl <br />
 
 O mnie:
 
-    Student AGH <br />
+    Student AGH.
 
-    Fanatyk tworzenia makr do minecraft. <br />
+    Fanatyk tworzenia makr do minecraft. 
 
-    Języki programowania: C, JS, CSS, C++, HTML, PYTHON. <br />
+    Języki programowania: C, JS, CSS, C++, HTML, PYTHON. 
+
+    
