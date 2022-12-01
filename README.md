@@ -1,5 +1,5 @@
 
-<h2> Imie: Michał <br /> </h2>
+<h2> Imię: Michał <br /> </h2>
 <h2> Nazwisko: Krzempek <br /> </h2>
 <h2> Mail: krzempekm@student.agh.edu.pl <br /> </h2>
 
